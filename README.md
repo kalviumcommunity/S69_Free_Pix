@@ -90,3 +90,7 @@ To run this project locally, you will need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/shangesh-tech/freepix.git
+
+---
+
+## Deployment Backend :- https://free-pix.onrender.com
